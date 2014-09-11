@@ -1,0 +1,215 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.1   3528  1252 ?        Ss   Mar21   0:02 /sbin/init
+root         2  0.0  0.0      0     0 ?        S    Mar21   0:00 [kthreadd]
+root         3  0.0  0.0      0     0 ?        S    Mar21   0:31 [ksoftirqd/0]
+root         5  0.0  0.0      0     0 ?        S<   Mar21   0:00 [kworker/0:0H]
+root         7  0.0  0.0      0     0 ?        S    Mar21   0:05 [migration/0]
+root         8  0.0  0.0      0     0 ?        S    Mar21   0:00 [rcu_bh]
+root         9  0.0  0.0      0     0 ?        S    Mar21   0:53 [rcu_sched]
+root        10  0.0  0.0      0     0 ?        S    Mar21   0:11 [watchdog/0]
+root        11  0.0  0.0      0     0 ?        S    Mar21   0:09 [watchdog/1]
+root        12  0.0  0.0      0     0 ?        S    Mar21   0:05 [migration/1]
+root        13  0.0  0.0      0     0 ?        S    Mar21   0:21 [ksoftirqd/1]
+root        15  0.0  0.0      0     0 ?        S<   Mar21   0:00 [kworker/1:0H]
+root        16  0.0  0.0      0     0 ?        S<   Mar21   0:00 [khelper]
+root        17  0.0  0.0      0     0 ?        S    Mar21   0:00 [kdevtmpfs]
+root        18  0.0  0.0      0     0 ?        S<   Mar21   0:00 [netns]
+root        19  0.0  0.0      0     0 ?        S<   Mar21   0:00 [writeback]
+root        20  0.0  0.0      0     0 ?        S<   Mar21   0:00 [kintegrityd]
+root        21  0.0  0.0      0     0 ?        S<   Mar21   0:00 [bioset]
+root        22  0.0  0.0      0     0 ?        S<   Mar21   0:00 [kblockd]
+root        23  0.0  0.0      0     0 ?        S<   Mar21   0:00 [ata_sff]
+root        24  0.0  0.0      0     0 ?        S    Mar21   0:00 [khubd]
+root        25  0.0  0.0      0     0 ?        S<   Mar21   0:00 [md]
+root        26  0.0  0.0      0     0 ?        S<   Mar21   0:00 [devfreq_wq]
+root        27  0.0  0.0      0     0 ?        S    Mar21   0:28 [kworker/0:1]
+root        29  0.0  0.0      0     0 ?        S    Mar21   0:00 [khungtaskd]
+root        30  0.0  0.0      0     0 ?        S    Mar21   0:25 [kswapd0]
+root        31  0.0  0.0      0     0 ?        SN   Mar21   0:00 [ksmd]
+root        32  0.0  0.0      0     0 ?        S    Mar21   1:09 [kworker/1:1]
+root        33  0.0  0.0      0     0 ?        SN   Mar21   0:00 [khugepaged]
+root        34  0.0  0.0      0     0 ?        S    Mar21   0:00 [fsnotify_mark]
+root        35  0.0  0.0      0     0 ?        S    Mar21   0:00 [ecryptfs-kthrea]
+root        36  0.0  0.0      0     0 ?        S<   Mar21   0:00 [crypto]
+root        47  0.0  0.0      0     0 ?        S<   Mar21   0:00 [kthrotld]
+root        49  0.0  0.0      0     0 ?        S    Mar21   0:00 [scsi_eh_0]
+root        50  0.0  0.0      0     0 ?        S    Mar21   0:00 [scsi_eh_1]
+root        52  0.0  0.0      0     0 ?        S<   Mar21   0:00 [binder]
+root        53  0.0  0.0      0     0 ?        S<   Mar21   0:00 [deferwq]
+root        55  0.0  0.0      0     0 ?        S<   Mar21   0:00 [charger_manager]
+root       213  0.0  0.0      0     0 ?        S<   Mar21   0:00 [mpt_poll_0]
+root       214  0.0  0.0      0     0 ?        S<   Mar21   0:00 [mpt/0]
+root       215  0.0  0.0      0     0 ?        S    Mar21   0:00 [scsi_eh_2]
+root       216  0.0  0.0      0     0 ?        S    Mar21   0:00 [scsi_eh_3]
+root       217  0.0  0.0      0     0 ?        S    Mar21   0:00 [scsi_eh_4]
+root       218  0.0  0.0      0     0 ?        S    Mar21   0:00 [scsi_eh_5]
+root       219  0.0  0.0      0     0 ?        S    Mar21   0:00 [scsi_eh_6]
+root       220  0.0  0.0      0     0 ?        S    Mar21   0:00 [scsi_eh_7]
+root       221  0.0  0.0      0     0 ?        S    Mar21   0:00 [scsi_eh_8]
+root       222  0.0  0.0      0     0 ?        S    Mar21   0:00 [scsi_eh_9]
+root       223  0.0  0.0      0     0 ?        S    Mar21   0:00 [scsi_eh_10]
+root       224  0.0  0.0      0     0 ?        S    Mar21   0:00 [scsi_eh_11]
+root       225  0.0  0.0      0     0 ?        S    Mar21   0:00 [scsi_eh_12]
+root       226  0.0  0.0      0     0 ?        S    Mar21   0:00 [scsi_eh_13]
+root       227  0.0  0.0      0     0 ?        S    Mar21   0:00 [scsi_eh_14]
+root       228  0.0  0.0      0     0 ?        S    Mar21   0:00 [scsi_eh_15]
+root       229  0.0  0.0      0     0 ?        S    Mar21   0:00 [scsi_eh_16]
+root       230  0.0  0.0      0     0 ?        S    Mar21   0:00 [scsi_eh_17]
+root       231  0.0  0.0      0     0 ?        S    Mar21   0:00 [scsi_eh_18]
+root       232  0.0  0.0      0     0 ?        S    Mar21   0:00 [scsi_eh_19]
+root       233  0.0  0.0      0     0 ?        S    Mar21   0:00 [scsi_eh_20]
+root       234  0.0  0.0      0     0 ?        S    Mar21   0:00 [scsi_eh_21]
+root       235  0.0  0.0      0     0 ?        S    Mar21   0:00 [scsi_eh_22]
+root       236  0.0  0.0      0     0 ?        S    Mar21   0:00 [scsi_eh_23]
+root       237  0.0  0.0      0     0 ?        S    Mar21   0:00 [scsi_eh_24]
+root       238  0.0  0.0      0     0 ?        S    Mar21   0:00 [scsi_eh_25]
+root       239  0.0  0.0      0     0 ?        S    Mar21   0:00 [scsi_eh_26]
+root       240  0.0  0.0      0     0 ?        S    Mar21   0:00 [scsi_eh_27]
+root       241  0.0  0.0      0     0 ?        S    Mar21   0:00 [scsi_eh_28]
+root       242  0.0  0.0      0     0 ?        S    Mar21   0:00 [scsi_eh_29]
+root       243  0.0  0.0      0     0 ?        S    Mar21   0:00 [scsi_eh_30]
+root       244  0.0  0.0      0     0 ?        S    Mar21   0:00 [scsi_eh_31]
+root       274  0.0  0.0      0     0 ?        S    Mar21   0:00 [scsi_eh_32]
+root       362  0.0  0.0      0     0 ?        S    Mar21   1:17 [jbd2/sda3-8]
+root       363  0.0  0.0      0     0 ?        S<   Mar21   0:00 [ext4-dio-unwrit]
+root       453  0.0  0.0   2832   344 ?        S    Mar21   0:00 upstart-udev-bridge --daemon
+root       455  0.0  0.0   3648   204 ?        Ss   Mar21   0:00 /sbin/udevd --daemon
+root       465  0.0  0.0      0     0 ?        S    Mar21   0:00 [kworker/0:2]
+root       552  0.0  0.0      0     0 ?        S    Mar21   0:01 [jbd2/sda1-8]
+root       553  0.0  0.0      0     0 ?        S<   Mar21   0:00 [ext4-dio-unwrit]
+root       631  0.0  0.0   6680   220 ?        Ss   Mar21   0:00 /usr/sbin/sshd -D
+syslog     658  0.0  0.0  31060   216 ?        Sl   Mar21   0:21 rsyslogd -c5
+root       843  0.0  0.0   3644   196 ?        S    Mar21   0:00 /sbin/udevd --daemon
+root       920  0.0  0.0   2844   284 ?        S    Mar21   0:00 upstart-socket-bridge --daemon
+root       936  0.0  0.1  21404  1436 ?        Ss   Mar21   0:02 smbd -F
+root       968  0.0  0.0      0     0 ?        S<   Mar21   0:00 [kpsmoused]
+root       970  0.0  0.0      0     0 ?        S<   Mar21   0:00 [ttm_swap]
+root      1033  0.0  0.0   4628   180 tty4     Ss+  Mar21   0:00 /sbin/getty -8 38400 tty4
+root      1039  0.0  0.0   4628   180 tty5     Ss+  Mar21   0:00 /sbin/getty -8 38400 tty5
+root      1049  0.0  0.0   4628   180 tty2     Ss+  Mar21   0:00 /sbin/getty -8 38400 tty2
+root      1050  0.0  0.0   4628   180 tty3     Ss+  Mar21   0:00 /sbin/getty -8 38400 tty3
+root      1053  0.0  0.0   4628   180 tty6     Ss+  Mar21   0:00 /sbin/getty -8 38400 tty6
+root      1056  0.0  0.0   2172   316 ?        Ss   Mar21   0:00 acpid -c /etc/acpi/events -s /var/run/acpid.socket
+root      1070  0.0  0.0   2616   388 ?        Ss   Mar21   0:00 cron
+daemon    1071  0.0  0.0   2468    16 ?        Ss   Mar21   0:00 atd
+root      1087  0.0  0.1  11072  1896 ?        Ss   Mar21   0:02 /usr/sbin/cupsd -F
+102       1090  0.0  0.1   4124  1240 ?        Ss   Mar21   0:03 dbus-daemon --system --fork --activation=upstart
+root      1098  0.0  0.0   3600   368 ?        Ss   Mar21   0:53 /usr/sbin/irqbalance
+root      1109  0.0  0.0  27940   612 ?        Ssl  Mar21   3:19 /usr/local/bin/redis-server *:6379              
+root      1112  0.0  0.1   7220  1104 ?        Ss   Mar21   0:00 /usr/sbin/modem-manager
+root      1117  0.0  0.1  34036  1392 ?        Ssl  Mar21   0:00 lightdm
+root      1145  0.0  0.0      0     0 ?        S    Mar21   0:00 [kworker/1:2]
+whoopsie  1167  0.0  0.2  26032  2296 ?        Ssl  Mar21   0:04 whoopsie
+avahi     1172  0.0  0.0   3564   828 ?        S    Mar21   0:01 avahi-daemon: running [ubuntu.local]
+avahi     1173  0.0  0.0   3452    40 ?        S    Mar21   0:00 avahi-daemon: chroot helper
+mysql     1423  0.0  1.2 328416 13116 ?        Ssl  Mar21   1:30 /usr/sbin/mysqld
+root      1426  0.0  0.2  33124  2800 ?        Ssl  Mar21   0:01 NetworkManager
+root      1431  0.0  0.2  25192  2564 ?        Sl   Mar21   0:02 /usr/lib/policykit-1/polkitd --no-debug
+root      1506  0.0  0.0  21508   596 ?        S    Mar21   0:00 smbd -F
+root      1513  0.4  4.4 138484 45776 tty7     Ss+  Mar21  32:57 /usr/bin/X :0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch -background none
+root      1653  0.0  0.0      0     0 ?        S<   Mar21   0:01 [kworker/1:1H]
+nobody    1688  0.0  0.0   7080   380 ?        S    Mar21   0:03 /usr/sbin/dnsmasq --no-resolv --keep-in-foreground --no-hosts --bind-interfaces --pid-file=/var/run/sendsigs.omit.d/network-manager.dnsmasq.pid --listen-address=127.0.0.1 --conf-file=/var/run/nm-dns-dnsmasq.conf --cache-size=0 --proxy-dnssec
+root      1729  0.0  0.0   4628   180 tty1     Ss+  Mar21   0:00 /sbin/getty -8 38400 tty1
+root      1815  0.0  0.0  13328   720 ?        Ss   Mar21   0:11 nmbd -D
+root      1902  0.0  0.2  15832  2228 ?        Sl   Mar21   0:07 /usr/lib/accountsservice/accounts-daemon
+root      1919  0.0  0.2  30436  2680 ?        Sl   Mar21   0:02 /usr/sbin/console-kit-daemon --no-daemon
+root      2032  0.0  0.1  28416  1960 ?        Sl   Mar21   0:00 /usr/lib/upower/upowerd
+colord    2198  0.0  0.2  53568  2800 ?        Sl   Mar21   0:00 /usr/lib/i386-linux-gnu/colord/colord
+root      2212  0.0  0.1  16456  1260 ?        Sl   Mar21   0:00 lightdm --session-child 12 19
+rtkit     2252  0.0  0.0  21328   332 ?        SNl  Mar21   0:08 /usr/lib/rtkit/rtkit-daemon
+1000      2311  0.0  0.5  80972  5800 ?        Sl   Mar21   0:01 /usr/bin/gnome-keyring-daemon --daemonize --login
+1000      2322  0.0  0.3  53880  4016 ?        Ssl  Mar21   0:02 gnome-session --session=ubuntu
+1000      2351  0.0  0.0      0     0 ?        Z    Mar21   0:00 [lightdm-session] <defunct>
+1000      2359  0.0  0.0   4076    20 ?        Ss   Mar21   0:01 /usr/bin/ssh-agent /usr/bin/dbus-launch --exit-with-session gnome-session --session=ubuntu
+1000      2362  0.0  0.0   3936   132 ?        S    Mar21   0:00 /usr/bin/dbus-launch --exit-with-session gnome-session --session=ubuntu
+1000      2363  0.0  0.2   6692  2732 ?        Ss   Mar21   0:35 //bin/dbus-daemon --fork --print-pid 5 --print-address 7 --session
+1000      2372  0.0  1.1 164412 11652 ?        Sl   Mar21   1:03 /usr/lib/gnome-settings-daemon/gnome-settings-daemon
+1000      2381  0.0  0.0  11464   848 ?        S    Mar21   0:00 /usr/lib/gvfs/gvfsd
+1000      2383  0.0  0.0  43088   840 ?        Sl   Mar21   0:00 /usr/lib/gvfs//gvfs-fuse-daemon -f /home/huangchen/.gvfs
+1000      2393  0.4 11.7 379408 120948 ?       Sl   Mar21  27:58 compiz
+1000      2404  0.0  0.1 102516  1712 ?        Sl   Mar21   0:01 /usr/bin/pulseaudio --start --log-target=syslog
+1000      2407  0.0  0.0  14100   704 ?        S    Mar21   0:00 /usr/lib/pulseaudio/pulse/gconf-helper
+1000      2409  0.0  0.1  12424  1204 ?        S    Mar21   0:01 /usr/lib/i386-linux-gnu/gconf/gconfd-2
+1000      2410  0.0  0.3  42920  3336 ?        Sl   Mar21   0:01 /usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1
+1000      2411  0.0  1.7 164016 18304 ?        Sl   Mar21   0:25 nautilus -n
+1000      2415  0.0  0.3  80712  3944 ?        Sl   Mar21   0:01 bluetooth-applet
+1000      2416  0.0  0.5 117624  6072 ?        Sl   Mar21   0:01 nm-applet
+1000      2417  0.0  0.3  60272  3488 ?        Sl   Mar21   0:01 /usr/lib/gnome-settings-daemon/gnome-fallback-mount-helper
+1000      2427  0.0  0.2  31672  2208 ?        S    Mar21   0:00 /usr/lib/gvfs/gvfs-gdu-volume-monitor
+root      2429  0.0  0.2  25412  2204 ?        Sl   Mar21   0:00 /usr/lib/udisks/udisks-daemon
+root      2431  0.0  0.0   6552   196 ?        S    Mar21   0:00 udisks-daemon: not polling any devices
+1000      2437  0.0  0.0  23388   748 ?        Sl   Mar21   0:00 /usr/lib/gvfs/gvfs-afc-volume-monitor
+1000      2440  0.0  0.0  12112   764 ?        S    Mar21   0:00 /usr/lib/gvfs/gvfs-gphoto2-volume-monitor
+1000      2452  0.0  0.1  11932  1720 ?        S    Mar21   0:06 /usr/lib/gvfs/gvfsd-trash --spawner :1.6 /org/gtk/gvfs/exec_spaw/0
+1000      2454  0.0  0.0  11468   848 ?        S    Mar21   0:00 /usr/lib/gvfs/gvfsd-burn --spawner :1.6 /org/gtk/gvfs/exec_spaw/1
+1000      2460  0.0  0.5  79280  5740 ?        Sl   Mar21   0:21 /usr/lib/bamf/bamfdaemon
+1000      2469  0.0  0.0   2232   180 ?        Ss   Mar21   0:00 /bin/sh -c /usr/bin/compiz-decorator
+1000      2470  0.0  0.9  78592  9716 ?        Sl   Mar21   0:56 /usr/bin/gtk-window-decorator
+1000      2475  0.0  2.1 106200 22212 ?        Sl   Mar21   2:00 /usr/lib/unity/unity-panel-service
+1000      2477  0.0  0.6  68284  6564 ?        Sl   Mar21   0:30 /usr/lib/indicator-appmenu/hud-service
+1000      2492  0.0  0.3  78808  3520 ?        Sl   Mar21   0:00 /usr/lib/indicator-session/indicator-session-service
+1000      2503  0.0  0.3  82820  3824 ?        Sl   Mar21   0:00 /usr/lib/indicator-datetime/indicator-datetime-service
+1000      2504  0.0  0.3  69456  3340 ?        Sl   Mar21   0:00 /usr/lib/indicator-messages/indicator-messages-service
+1000      2506  0.0  0.2  61644  2956 ?        Sl   Mar21   0:07 /usr/lib/indicator-application/indicator-application-service
+1000      2508  0.0  0.3 137856  3324 ?        Sl   Mar21   0:00 /usr/lib/indicator-sound/indicator-sound-service
+1000      2509  0.0  0.4  63840  5092 ?        Sl   Mar21   0:01 /usr/lib/indicator-printers/indicator-printers-service
+1000      2538  0.0  0.1   7976  1256 ?        S    Mar21   0:00 /usr/lib/geoclue/geoclue-master
+1000      2543  0.0  0.2  41940  2344 ?        Sl   Mar21   0:00 /usr/lib/ubuntu-geoip/ubuntu-geoip-provider
+1000      2555  0.0  0.3  47840  3272 ?        Sl   Mar21   4:43 /usr/bin/ibus-daemon --xim
+1000      2556  0.0  0.1  21252  1944 ?        Sl   Mar21   0:00 /usr/lib/i386-linux-gnu/ibus/ibus-gconf
+1000      2558  0.0  1.8 102252 18708 ?        Sl   Mar21   1:36 /usr/bin/python /usr/share/ibus/ui/gtk/main.py
+1000      2560  0.0  0.3  41912  3884 ?        Sl   Mar21   0:00 /usr/lib/i386-linux-gnu/ibus/ibus-x11 --kill-daemon
+1000      2568  0.0  0.5  58036  5552 ?        Sl   Mar21   0:40 /usr/lib//ibus-sunpinyin/ibus-engine-sunpinyin --ibus
+1000      2582  0.0  0.4  43452  4536 ?        Sl   Mar21   0:01 /usr/lib/notify-osd/notify-osd
+1000      2585  0.0  0.4  44676  4612 ?        Sl   Mar21   0:01 /usr/lib/gnome-disk-utility/gdu-notification-daemon
+1000      2596  0.0  0.5  81672  5892 ?        Sl   Mar21   0:08 /usr/lib/unity-lens-applications/unity-applications-daemon
+1000      2598  0.0  0.2  88312  2832 ?        Sl   Mar21   0:00 /usr/lib/unity-lens-files/unity-files-daemon
+1000      2600  0.0  0.3  80876  3176 ?        Sl   Mar21   0:07 /usr/lib/unity-lens-music/unity-music-daemon
+1000      2602  0.0  0.7  72460  7748 ?        Sl   Mar21   0:01 /usr/bin/python /usr/lib/unity-lens-video/unity-lens-video
+1000      2624  0.0  0.2  43836  2984 ?        Sl   Mar21   0:00 /usr/bin/zeitgeist-daemon
+1000      2634  0.0  0.5  53224  5560 ?        Sl   Mar21   0:01 /usr/lib/zeitgeist/zeitgeist-fts
+1000      2636  0.0  0.3  53388  3152 ?        Sl   Mar21   0:06 zeitgeist-datahub
+1000      2642  0.0  0.0   7128    56 ?        S    Mar21   0:00 /bin/cat
+1000      2659  0.0  0.1  78528  1932 ?        Sl   Mar21   0:00 /usr/lib/unity-lens-music/unity-musicstore-daemon
+1000      2660  0.0  0.4  77656  4776 ?        Sl   Mar21   0:01 telepathy-indicator
+1000      2682  0.0  0.2  41712  2588 ?        Sl   Mar21   0:00 /usr/lib/telepathy/mission-control-5
+1000      2686  0.0  0.3  91204  4084 ?        Sl   Mar21   0:00 /usr/lib/gnome-online-accounts/goa-daemon
+1000      2703  0.0  0.1  33512  1512 ?        Sl   Mar22   0:00 /usr/lib/dconf/dconf-service
+1000      2704  0.1  2.0 127092 21212 ?        Sl   Mar21  10:03 gnome-terminal
+1000      2713  0.0  1.1 107248 11808 ?        Sl   Mar21   0:06 /usr/bin/python /usr/lib/unity-scope-video-remote/unity-scope-video-remote
+1000      2715  0.0  0.0   2400   424 ?        S    Mar21   0:00 gnome-pty-helper
+1000      2728  0.0  0.0  11152   972 ?        S    Mar22   0:00 /usr/lib/gvfs/gvfsd-metadata
+1000      2731  0.0  1.9 103020 19676 ?        Sl   Mar22   0:19 gedit /home/huangchen/无标题文档
+1000      2780  0.0  0.7  43892  7836 ?        Sl   Mar21   0:38 gnome-screensaver
+1000      2882  0.0  0.1  35128  1860 ?        Sl   Mar21   0:00 /usr/lib/at-spi2-core/at-spi-bus-launcher
+1000      2906  0.0  0.8  61076  8732 ?        Sl   Mar21   0:09 update-notifier
+root      2931  0.0  0.6  17976  6232 ?        S    Mar21   0:00 /usr/bin/python /usr/lib/system-service/system-service-d
+1000      2964  0.0  0.1  16724  1148 ?        Sl   Mar21   0:00 /usr/lib/deja-dup/deja-dup/deja-dup-monitor
+root      8713  0.0  0.0  45356   892 ?        Ssl  Mar22   1:32 /opt/bacula/bin/bacula-sd -v -c /opt/bacula/bin/bacula-sd.conf
+root      8723  0.0  0.0  27640   208 ?        Ssl  Mar22   0:01 /opt/bacula/bin/bacula-fd -v -c /opt/bacula/bin/bacula-fd.conf
+root      8732  0.0  0.1  73656  1704 ?        Ssl  Mar22   0:05 /opt/bacula/bin/bacula-dir -v -c /opt/bacula/bin/bacula-dir.conf
+root      9399  0.0  0.0   3644   176 ?        S    Mar22   0:00 /sbin/udevd --daemon
+root      9421  0.0  0.0      0     0 ?        S    Mar22   0:00 [jbd2/cc-8]
+root      9422  0.0  0.0      0     0 ?        S<   Mar22   0:00 [ext4-dio-unwrit]
+1000      9462  0.0  0.2  10184  2492 pts/2    Ss   Mar22   0:00 bash
+1000     12313  0.0  2.3 167436 24028 ?        SNl  Mar22   0:42 /usr/bin/python /usr/bin/update-manager --no-focus-on-map
+root     12416  0.0  0.0   8580   708 ?        S    Mar22   0:00 su root
+root     12424  0.0  0.1   8876  1468 ?        S    Mar22   0:02 bash
+root     13681  0.0  0.0   2256    68 pts/2    S    Mar23   0:00 ./daytimetcpsrv
+root     14041  0.0  0.1   5364  1056 ?        Ss   Mar24   0:00 nginx: master process /usr/local/nginx/nginx
+root     16632  0.0  0.1   8580  1212 pts/2    S    Mar25   0:00 su root
+root     16640  0.0  0.1   8884  1960 pts/2    S+   Mar25   0:02 bash
+root     17550  0.0  0.0      0     0 ?        S    04:55   0:02 [kworker/u16:0]
+lp       18216  0.0  0.0   6224   984 ?        S    07:49   0:00 /usr/lib/cups/notifier/dbus dbus:// 
+1000     18667  0.0  0.1  10552  1388 pts/3    Ss   11:47   0:00 bash
+root     18724  0.0  0.1   8580  1232 pts/3    S    11:47   0:00 su root
+root     18732  0.0  0.1   8592  1864 pts/3    S    11:47   0:00 bash
+root     18756  0.0 11.2 149236 115816 ?       S    11:49   0:03 gdb vmlinux
+1000     18850  0.0  0.3  10552  3856 pts/4    Ss+  13:01   0:00 bash
+nobody   23143  0.0  0.1   5684  1264 ?        S    17:15   0:02 nginx: worker process 
+nobody   23144  0.0  0.1   5684  1264 ?        S    17:15   0:01 nginx: worker process 
+nobody   23145  0.0  0.1   5684  1264 ?        S    17:15   0:01 nginx: worker process 
+nobody   23146  0.0  0.1   5684  1264 ?        S    17:15   0:01 nginx: worker process 
+root     23187  0.0  0.0      0     0 ?        S    17:32   0:00 [kworker/u16:2]
+root     23272  0.0  0.1   6620  1184 pts/3    R+   19:10   0:00 ps -aux
+root     29828  0.0  0.0      0     0 ?        S<   Mar22   0:01 [kworker/0:1H]
